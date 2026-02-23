@@ -1,5 +1,5 @@
 # 📜 Las 70 Semanas de Daniel — 
-Para abrir la aplicación haga clic en el enlace a la derecha -> https://efmm48.github.io/Calculadora-las-70-semanas-de-Daniel/calculadora_daniel_v2.html
+Para abrir la aplicación haga clic en el enlace a la derecha -> [Link Text](https://efmm48.github.io/Calculadora-las-70-semanas-de-Daniel/calculadora_daniel_v2.html)
     
 > Herramienta interactiva de análisis aritmético-profético de Daniel 9:24–27  
 > Desarrollada por **Eugenio F. Martínez Mora** con asistencia de ChatGPT (OpenAI) y Claude (Anthropic)
